@@ -1,3 +1,0 @@
-Welcome to my Hikmah Mohammed's Time Machine Zine: where the past, present, and future collide!
-W e l c o m e   t o   m y   T i m e   M a c h i n e   Z i n e :   w h e r e   t h e   p a s t ,   p r e s e n t ,   a n d   f u t u r e   c o l l i d e !   J o i n   t h e   r i d e !
-
