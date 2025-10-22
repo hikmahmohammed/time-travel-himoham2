@@ -1,0 +1,3 @@
+﻿Layout section: exploring zine structure and design ideas.
+
+- Maybe each era (past, present, future) gets its own section.
