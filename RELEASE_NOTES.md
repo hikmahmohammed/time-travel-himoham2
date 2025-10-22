@@ -1,14 +1,12 @@
 \# Release Notes – Version 1.0
 
 
-
 \*\*Release Date:\*\* 22nd October, 2025
-
 
 
 \## Summary
 
-Version 1.0 of the \*Time Machine Zine\* project marks the completion of all required Git tasks, branch merges, and conflict resolutions. The repository now includes finalized content, a LICENSE, and proper documentation.
+Version 1.0 of the Time Machine Zine project marks the completion of all required Git tasks, branch merges, and conflict resolutions. The repository now includes finalized content, a LICENSE, and proper documentation.
 
 
 
